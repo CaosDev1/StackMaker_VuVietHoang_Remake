@@ -6,4 +6,5 @@ public class Const : MonoBehaviour
 {
     public const string Player = "Player";
     public const string Unbrick = "Unbrick";
+    public const string Level = "Level";
 }
